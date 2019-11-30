@@ -1,3 +1,5 @@
-# Welcome to my blog
+# Bom demais ter você aqui!
 
-I'm glad you are here. I plan to talk about ...
+É uma maravilha poder falar contigo :sparkles:. Na verdade, esta é minha primeira página no GitHubPages. Estou aprendendo a criar páginas usando Markdown. Espero melhorar a cada dia.
+
+Vamos juntos e me ajude a fazer esta página cada vez melhor. :heart:
